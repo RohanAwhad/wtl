@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="wiki-xsl.xsl"?>
+<users>
+	<n_user>
+		<user_id>101</user_id>
+		<name>
+			<firstName>Rohan</firstName>
+			<lastName>Awhad</lastName>
+		</name>
+		<contactInfo>
+			<email>rohan@awhad.com</email>
+			<phone>5689237845</phone>
+		</contactInfo>
+		<username>ronny007</username>
+		<country>India</country>
+		<gender>Male</gender>
+		<language>English</language>
+	</n_user>
+	<n_user>
+		<user_id>102</user_id>
+		<name>
+			<firstName>Jovian</firstName>
+			<lastName>Anthony</lastName>
+		</name>
+		<contactInfo>
+			<email>jovian@anthony.com</email>
+			<phone>7845123265</phone>
+		</contactInfo>
+		<username>tony_stark</username>
+		<country>India</country>
+		<gender>Male</gender>
+		<language>Korean</language>
+	</n_user>
+	<n_user>
+		<user_id>103</user_id>
+		<name>
+			<firstName>Vedant</firstName>
+			<lastName>Badhe</lastName>
+		</name>
+		<contactInfo>
+			<email>vedant@badhe.com</email>
+			<phone>6578329812</phone>
+		</contactInfo>
+		<username>badhe.vedu</username>
+		<country>India</country>
+		<gender>Male</gender>
+		<language>Japanese</language>
+	</n_user>
+</users>

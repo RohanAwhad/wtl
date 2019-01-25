@@ -1,0 +1,16 @@
+body{
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+header{
+	background-color: white	
+}
+.container{
+	margin-left: 80px	
+}
+footer{
+	display: block;	
+}
